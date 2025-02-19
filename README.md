@@ -1,2 +1,2 @@
 # converters-hex-oct-binary
-A simple program for hexadecimal, octal, binary and decimal conversions
+A simple program for hexadecimal, octal, binary and decimal conversions I made during college.
